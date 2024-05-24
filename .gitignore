@@ -1,0 +1,13 @@
+event27
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.swp
+*.swo
+*.yuv
+*.mp4
+*.h264
+*.jpg
+*.png
+*.pth
+*.pt
